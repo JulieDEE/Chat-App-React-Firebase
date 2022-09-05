@@ -23,6 +23,8 @@ const Chats = () => {
     currentUser.uid && getChats();
   }, [currentUser.uid]);
 
+  console.log(chats);
+
   const handleSelect = (user) => {
     dispatch({ type: "CHANGE_USER", payload: user });
   };
@@ -31,7 +33,6 @@ const Chats = () => {
     <>
       <div className="chats">
         {Object.entries(chats)?.sort((a, b) => b[1].date - a[1].date).map((chat) => {
-          console.log(chat);
           return (
             <div
               className="userChat"

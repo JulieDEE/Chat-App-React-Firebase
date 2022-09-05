@@ -48,7 +48,7 @@ const Searchbar = () => {
 
       if (!response.exists()) {
         // create a chat in chats collection :
-        await setDoc(doc(db, "chats", combineId), { message: [] });
+        await setDoc(doc(db, "chats", combineId), { messages: [] });
       }
 
       // create user chats :
