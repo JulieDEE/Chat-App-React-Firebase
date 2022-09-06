@@ -19,9 +19,38 @@
   </p>
 </div>
 
+### Built With
 
+* [![React][React.js]][React-url]
+* [!Firebase][Firebase-url]
 
+<!-- GETTING STARTED -->
+## Getting Started
 
+### Installation
+
+1. Get a free Firebase account : <a href="https://firebase.google.com/">🔥</a>
+
+2. Clone the repo
+   ```sh
+   git clone [https://github.com/JulieDEE/Chat-App-React-Firebase.git]
+   ```
+3. Install YARN packages
+   ```sh
+   yarn install
+   ```
+4. Enter your API in `firebase.js`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Julie Dee - julie.dee.dev@gmail.com
+
+Project Link: [https://github.com/JulieDEE](https://github.com/JulieDEE)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
