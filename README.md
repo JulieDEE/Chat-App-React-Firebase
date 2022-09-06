@@ -21,8 +21,25 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [!Firebase][Firebase-url]
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<!-- ABOUT THIS PROJECT -->
+## About this project 
+
+This Chat is a **Frontend** project made with React. 
+For Backend i wanted to use Firebase for the first time. 
+
+### FEATURES : 
+
+- Authentification with password and email (Firebase) 
+- Creation of dataBase : create and upload users, upload images using Firebase Cloud
+- Search Users 
+- Create real time chat with an other user 
+
+_This project is still being improved _
+
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -46,9 +63,11 @@
 <!-- CONTACT -->
 ## Contact
 
-Julie Dee - julie.dee.dev@gmail.com
+Julie Dee - julie.dee.dev@gmail.com 
 
 Project Link: [https://github.com/JulieDEE](https://github.com/JulieDEE)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
